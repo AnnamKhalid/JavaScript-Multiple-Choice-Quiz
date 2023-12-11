@@ -9,7 +9,7 @@ The screenshots above are a result of a task that entailed, using concepts I hav
 
 ## Webpage
 
-The link to my completed webpage ( [https://annamkhalid.github.io/JavaScript-Multiple-Choice-Quiz/])
+ [The link to my completed webpage](https://annamkhalid.github.io/JavaScript-Multiple-Choice-Quiz/)
 
 ## Credits
 
